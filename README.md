@@ -1,1 +1,1 @@
-# SOSA-voice-bot-hardware-repo
+# Arduino Code for SOSA Bot Hardware
